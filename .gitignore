@@ -1,0 +1,13 @@
+# Scratch/working downloads — NOT for publishing
+# (contains a licensed Getty stock image; keep out of the repo)
+assets/
+
+# Local setup helper — not part of the site
+_setup-github.sh
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/
